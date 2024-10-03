@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Anthony Willy</h1>
  
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Back+End;Computer+Science+Student;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Data+Science;AI;Computer+Science+Student;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>  
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/70/f7/71/70f771205b7f36abc7208abd34700d00.gif">
 
